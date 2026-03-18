@@ -45,7 +45,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=O-TEU-USER-AQUI&label=Profile%20Views&color=bf91f3&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/O-TEU-USER-AQUI?label=Followers&style=flat&color=70a5fd&labelColor=0d1117&logo=githubsponsors&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/anafrnandes?label=Followers&style=flat&color=70a5fd&labelColor=0d1117&logo=githubsponsors&logoColor=white" alt="Followers"/>
 </p>
 
 ---
