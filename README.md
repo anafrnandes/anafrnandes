@@ -33,5 +33,5 @@ Implementation of IROF and Input Invariance metrics to evaluate and compare XAI 
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/ana-fernandes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/ana-frnandes)
 [![GitHub](https://img.shields.io/badge/GitHub-anafrnandes-181717?style=flat&logo=github)](https://github.com/anafrnandes)
