@@ -17,8 +17,8 @@ Alongside my degree, I work professionally as a **Video Editor for [Wuant](https
 
 ## Featured Projects
 
-**[facial-attribute-editing](https://github.com/anafrnandes/facial-attribute-editing)** — *Final thesis project (17/20)*  
-Controlled facial image generation pipeline with identity preservation, integrating StyleGAN2, StyleFeatureEditor (CVPR 2024), and ArcFace. Manipulates attributes (expression, hair color, age) while preserving identity — 99.3% preservation rate on a 22,500-image CelebA-HQ dataset, outperforming InterFaceGAN baseline (83.8%). Runs entirely on Apple Silicon without an NVIDIA GPU.
+**[facial-attribute-editing](https://github.com/anafrnandes/facial-attribute-editing)** — *Final project (17/20)*  
+Controlled facial image generation pipeline with identity preservation, integrating StyleGAN2, StyleFeatureEditor (CVPR 2024), and ArcFace. Manipulates attributes (expression, hair color, age) while preserving identity — 99.3% preservation rate on a 22,500-image CelebA-HQ dataset, outperforming InterFaceGAN baseline (83.8%).
 
 **[recycling-classifier-resnet50](https://github.com/anafrnandes/TP_Audiovisuais)**  
 Computer vision system classifying 7 types of urban waste containers. Tackled severe class imbalance (46% majority vs <1% minority) using ResNet50 transfer learning + Focal Loss. Achieved 87.9% accuracy and F1=0.88. Includes Grad-CAM explainability.
