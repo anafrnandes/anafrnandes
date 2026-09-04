@@ -1,6 +1,6 @@
 # Ana Fernandes
 
-**AI & Data Science student** at Universidade da Beira Interior, building practical machine learning systems — from computer vision pipelines to NLP classifiers and data engineering workflows.
+**AI & Data Science graduate** at Universidade da Beira Interior, building practical machine learning systems — from generative AI and computer vision pipelines to NLP classifiers and data engineering workflows.
 
 Alongside my degree, I work professionally as a **Video Editor for [Wuant](https://www.youtube.com/@clipsdowuant)**, one of Portugal's largest content creators, where I apply the same attention to detail and deadline-driven mindset I bring to every technical project.
 
@@ -11,11 +11,14 @@ Alongside my degree, I work professionally as a **Video Editor for [Wuant](https
 **Languages:** Python · SQL  
 **ML & AI:** PyTorch · HuggingFace Transformers · scikit-learn · OpenCV  
 **Data:** pandas · Plotly Dash · SQLite  
-**Tools:** Git · Google Colab · Gradio  
+**Tools:** Git · Google Colab · Gradio
 
 ---
 
 ## Featured Projects
+
+**[facial-attribute-editing](https://github.com/anafrnandes/facial-attribute-editing)** — *Final thesis project (17/20)*  
+Controlled facial image generation pipeline with identity preservation, integrating StyleGAN2, StyleFeatureEditor (CVPR 2024), and ArcFace. Manipulates attributes (expression, hair color, age) while preserving identity — 99.3% preservation rate on a 22,500-image CelebA-HQ dataset, outperforming InterFaceGAN baseline (83.8%). Runs entirely on Apple Silicon without an NVIDIA GPU.
 
 **[recycling-classifier-resnet50](https://github.com/anafrnandes/TP_Audiovisuais)**  
 Computer vision system classifying 7 types of urban waste containers. Tackled severe class imbalance (46% majority vs <1% minority) using ResNet50 transfer learning + Focal Loss. Achieved 87.9% accuracy and F1=0.88. Includes Grad-CAM explainability.
